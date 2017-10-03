@@ -36,4 +36,4 @@ client.on('message', msg => {
   }
 });
 
-client.login('process.env.B0T_T0KEN');
+client.login('MzY0NDA2OTgyMjM4NTM1Njgw.DLP0gQ.4_sB1QozuVSNh0k03VP8blkJoGU');
